@@ -1,13 +1,16 @@
 # PasswordStrengthCheck
+
 This is a Password Strength Checker tool. It will evaluate the strength of a given password based on certain criteria.
 
 #Features
+
 Checks the length of the password.
 Verifies the presence of uppercase and lowercase letters.
 Validates the inclusion of numeric digits.
 Checks for special characters.
 
 #Requirements
+
 Python 3.x
 
 #Usage
