@@ -12,9 +12,9 @@ def check_password_strength(password):
 
     if length >= 8 and uppercase and lowercase and numeric and special:
         return "Strong"
-    elif length >= 6 and uppercase and lowercase and numeric:
+    elif length >= 8 and (uppercase or lowercase) and numeric:
         return "Moderate"
-    else:
+    elif length >= 6:
         return "Weak"
-
-    pass
+    else:
+        return "Very Weak"
