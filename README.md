@@ -1,19 +1,19 @@
-# PasswordStrengthCheck
+## PasswordStrengthCheck
 
 This is a Password Strength Checker tool. It will evaluate the strength of a given password based on certain criteria.
 
-#Features
+## Features
 
 Checks the length of the password.
 Verifies the presence of uppercase and lowercase letters.
 Validates the inclusion of numeric digits.
 Checks for special characters.
 
-#Requirements
+## Requirements
 
 Python 3.x
 
-#Usage
+## Usage
 
 1. Clone the repository:
 
@@ -46,6 +46,6 @@ python3 main.py
 Enter a password: w
 Password strength: Very Weak
 
-#AboutMe
+## AboutMe
 
 My name is Anthony Marte and I am trying to step foot into the cybersecurity world. This is my first of many tools. Feel free to contact me at my email: anmarte2016@gmail.com.
